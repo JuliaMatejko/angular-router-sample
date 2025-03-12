@@ -4,6 +4,7 @@ Angular tutorial application with routing
 ![Zrzut ekranu 1](https://github.com/user-attachments/assets/f7fc3006-f549-47c0-836b-84a7c923a654)
 ![Zrzut ekranu 2](https://github.com/user-attachments/assets/e84d90e7-89dc-43e1-a7ed-7f30448d408a)
 ![Zrzut ekranu 3](https://github.com/user-attachments/assets/d07c10b8-571a-447c-a4df-51a7d58753a6)
+![Zrzut ekranu 5](https://github.com/user-attachments/assets/1c44e066-c040-4b8b-92cb-15d77cd0cb3e)
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.0.
 
